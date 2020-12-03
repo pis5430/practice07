@@ -2,13 +2,6 @@ package com.javaex.ex02;
 
 public class Duck extends Bird {
 
-	public void getName() {
-
-	}
-
-	public void setName() {
-		
-	}
 
 	public void sing() {
 		System.out.println("오리(" + super.name + ")가 소리내어 웁니다.");
